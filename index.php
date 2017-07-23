@@ -5,9 +5,6 @@
 	<link rel="shortcut icon" href="/cunghoangdao/favicon.ico" type="image/x-icon">
 	<link rel="stylesheet" type="text/css" href="style.css">	
 	<meta charset="UTF-8">
-	<!-- Histats.com  START (html only)-->
-<a href="/viewstats/?SID=3860919&f=2" alt="" target="_blank" ><div id="histatsC"><img border="0" src="http://s4is.histats.com/stats/i/3860919.gif?3860919&103"></div></a>
-<!-- Histats.com  END  -->
 </head>
 <body>
 	<?php
