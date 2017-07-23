@@ -1,0 +1,64 @@
+
+body
+	{
+    background-image: url("background.jpg");
+
+   /*background: url(/background.jpg) no-repeat fixed center center;*/
+    background-size: cover;
+    font-family: Tahoma;
+}
+{
+	margin: 0px;
+	padding: 0px;
+}
+.content {
+	margin: 100px auto;
+	width: 600px;
+	background: white;
+	border: 5px solid #999;
+	padding: 5px;
+}
+.content h1 {
+	color: green;
+	text-align: center;
+}
+.content div.row{
+	margin-top: 20px;
+}
+.content div.row span{
+	display: inline-block;
+	width: 255px;
+	text-align: right;
+}
+.content div.row input[type=text]{
+	padding: 3px 5px;
+}
+.content div.row input[type=submit]{
+	padding: 3px 5px;
+	display: block;
+	margin: 0px auto 20px auto;
+}
+.content div.row p{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+.content div.result{
+	margin-left: 50;
+}
+.content div.result img{
+	width: auto;
+	height: auto;
+	overflow: hidden;
+	float: left;
+}
+.content div.result p{
+	text-align: justify;
+	font-size: 22px;
+	height: 100px;
+	line-height: 100px;
+}
+.content div.result p span{
+	font-style: italic;
+}
+
